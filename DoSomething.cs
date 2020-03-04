@@ -7,6 +7,6 @@ public class DoSomething : MonoBehaviour
     
     public void OnButtonPress()
     {
-        Debug.Log("Button has been pressed");
+        Debug.Log("The Quick Brown Fox Jumped Over The Lazy Dog");
     }
 }
