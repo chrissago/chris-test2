@@ -7,6 +7,6 @@ public class DoSomething : MonoBehaviour
     
     public void OnButtonPress()
     {
-        Debug.Log("But we want DoSomething to log this now.");
+        Debug.Log("This is the third revision to DoSomething");
     }
 }
